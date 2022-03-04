@@ -52,3 +52,6 @@ git branch - it will display the list of all branches
 git branch <branchname> - It will create the branchname
 git checkout branchname - It will change the head pointer to test
 branch
+
+git merge <branchname> - It will merge other branch with the master
+branch
